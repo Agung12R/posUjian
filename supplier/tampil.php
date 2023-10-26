@@ -1,7 +1,7 @@
 <div class="content">
     <div class="row">
-        <a href="?m=supplier&s=tambah" class="btn btn-info btn-large">Tambah Jurusan</a>
-        <h2>Modul Jurusan</h2>
+        <a href="?m=supplier&s=tambah" class="btn btn-info btn-large">Tambah</a>
+        <h2>supplier</h2>
         <table class="table table-bordered table-hover table-striped">
             <thead>
                 <tr>
@@ -29,7 +29,8 @@
                         echo "<td>" . $r['alamat'] . "</td>";
                         echo "<td>" . $r['kontak'] . "</td>";
                         echo '<td><a href="?m=supplier&s=edit&id=' . $r['id'] . '" class="btn btn-sm btn-warning">Edit</a>&nbsp
-                        <a href="?m=supplier&s=hapus&id=' . $r['id'] . '" onclick="return confirm(\'Data kan hilang bang kalo di apus\')" class="btn btn-sm btn-danger">Hapus</a></td>';
+                        <a href="?m=supplier&s=hapus&id=' . $r['id'] . '" onclick="return confirm(\'Data kan hilang bang kalo di apus\')" class="btn btn-sm btn-danger">Hapus</a></td>
+                        ';
                         echo "</tr>";
                         $no++;
                     }

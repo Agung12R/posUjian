@@ -16,7 +16,7 @@
         <div class="col">
         <form action="?m=penjualan&s=update" method="post">
             <div class="mb-2">
-                <label for="">supplier_id</label>
+                <label for="">supplier</label>
                 <input type="text" name="supplier_id" value="<?= $row['supplier_id'] ?>"  class="form-control" autofocus>
             </div>
             <div class="mb-2">

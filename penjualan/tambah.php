@@ -9,7 +9,7 @@
         <div class="col">
         <form action="?m=penjualan&s=simpan" method="post">
             <div class="mb-2">
-                <label for="">supplier_id</label>
+                <label for="">supplier</label>
                 <input type="number" name="supplier_id" class="form-control" autofocus>
             </div>
             <div class="mb-2">

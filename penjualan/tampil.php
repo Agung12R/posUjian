@@ -2,7 +2,7 @@
 <div class="content">
     <div class="row">
         <a href="?m=penjualan&s=tambah" class="btn btn-info">tambah penjualan</a>
-        <h2>Modul Tampilan Supplier</h2>
+        <h2>penjualan</h2>
         <table class="table table-bordered table-hover table-striped">
             <thead>
                 <tr>

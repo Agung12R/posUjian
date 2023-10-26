@@ -16,9 +16,9 @@
            
         <section>
             <center>
-                <h1><img src="./gambar/au.png" alt="" height="50px">Aplikasi Nilai RGI<img src="./gambar/TKJ.png" alt="" height="50px"></h1>
+                <h1><img src="./gambar/au.png" alt="" height="50px">Ujian Terakhir<img src="./gambar/TKJ.png" alt="" height="50px"></h1>
            
-                <h3>Tabel Jurusan dan Tabel Siswa <img src="./gambar/au1.png" alt="" height="50px"></h3>
+                <h3>WEB DEVOLOPMENT >:<img src="./gambar/au1.png" alt="" height="50px"></h3>
             </center>
         </section>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">

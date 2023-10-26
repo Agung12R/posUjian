@@ -1,7 +1,7 @@
 <section class="content">
     <div class="row">
         <div class="col-8">
-            <h1>Modul Jurusan</h1>
+            <h1>supplier</h1>
         </div>
         <div class="col-4">
             <a href="?m=supplier&s=tampil" class="btn btn-large btn-info float-end">Kembali</a>

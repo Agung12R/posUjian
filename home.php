@@ -1,6 +1,6 @@
 <div>
     <h2><center>Kelas TKJ RGI Angkatan XXIX</center></h2>
-    <img src="gambar/jpg.jpg" alt="TKJ" width="60%" class="rounded mx-auto d-block">
+    <img src="gambar/ini.gif" alt="TKJ" width="60%" class="rounded mx-auto d-block">
     <p>Kelas TKJ merupakan kelasnya para programer bagi anda yang mau menjadi seorang progremer yang handal, dikelas ini
         kamu akan di ajarkan skill seputar dunia Komputer dan Jaringannya mulai dari belajar mikrotik, server, dan
         membuat Web Development.</p>
